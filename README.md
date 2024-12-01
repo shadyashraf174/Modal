@@ -1,4 +1,4 @@
-# **Modal Window **  
+# **Modal Window**  
 #### Inspired by [Jonas Schmedtmann](https://github.com/jonasschmedtmann) || See it live at [CodePen](https://codepen.io/shady-ashraf/pen/ZYzGWVK)
 ###### *Modal Window* is an interactive component that overlays the current page content, typically used to display important information or actions. This project demonstrates event-driven JavaScript and dynamic HTML-CSS interactions.
 
